@@ -1,0 +1,60 @@
+safe: true
+source: .
+destination: ./_site
+highlighter: rouge
+markdown: kramdown
+exclude: ['CNAME', 'Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', '.sass-cache']
+sass:
+  style: uncompressed
+
+url: https://siot-hackathon.github.io
+baseurl: 
+
+deadlines:
+- name: Registration
+  date: TBA
+- name: Hackathon
+  date: February 17-19, 2020
+
+# Configuration for site
+title: Securing the IoT Hackathon 2020
+# short_title: Dagstuhl IoT Hackathon 2017
+description: February 17-19, 2020, Berlin, Germany
+author: Organizers
+email:
+logo: images/logo-ecdf.jpg
+
+responsive_bp: 768
+
+permalink: /:page.html
+
+navbar_list:
+- name: Home
+  link: /
+- name: Venue
+  link: venue
+# - name: <b>REGISTER NOW</b>
+#   link: https://www.eventbrite.com/e/
+
+# Configuration for asides.html
+asides:
+  github: true
+  # tweets: false
+
+# google_analytics:
+#    account: UA-XXXXX-X
+
+# google_plus_one:
+#   size: medium
+
+# twitter:
+#   username: ?
+#   count: 5
+#   exclude_replies: true
+#   show_screen_name: true
+#   show_follower_count: false
+#   widget_id: ?
+
+github:
+   username: siot-hackathon
+   count: 10
