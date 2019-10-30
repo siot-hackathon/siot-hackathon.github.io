@@ -14,7 +14,7 @@ Specifically, we will implement running solutions of the IETF working groups [So
 
 - October 29, 2019: Website setup
 
-## Sponsors
+## Supporters
 
 - ARM
 - ECDF
