@@ -19,6 +19,15 @@ Specifically, we will implement running solutions of the IETF working groups [So
 - ARM
 - ECDF
 
+## IETF Champions
+
+- Nancy Cam-Winget (TEEP, RATS)
+- Kathleen Moriarty (RATS)
+- Ned Smith (RATS)
+- Dave Thaler (SUIT, TEEP)
+- David Waltermire (SUIT)
+
+
 ## Organizers
 
 - [Hannes Tschofenig](https://datatracker.ietf.org/person/Hannes%20Tschofenig) (ARM)
