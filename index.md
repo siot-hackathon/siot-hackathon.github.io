@@ -22,9 +22,10 @@ Specifically, we will implement running solutions of the IETF working groups [So
 ## IETF Champions
 
 - Nancy Cam-Winget (TEEP, RATS)
+- Russ Housley (SUIT)
 - Kathleen Moriarty (RATS)
 - Ned Smith (RATS)
-- Dave Thaler (SUIT, TEEP)
+- Dave Thaler (SUIT)
 - David Waltermire (SUIT)
 
 
