@@ -12,7 +12,7 @@ baseurl:
 
 deadlines:
 - name: Registration
-  date: TBA
+  date: January 17, 2020
 - name: Hackathon
   date: February 17-19, 2020
 
@@ -33,8 +33,8 @@ navbar_list:
   link: /
 - name: Venue
   link: venue
-# - name: <b>REGISTER NOW</b>
-#   link: https://www.eventbrite.com/e/
+- name: Registration
+  link: https://siot-hackathon-2020.eventbrite.com
 
 # Configuration for asides.html
 asides:
