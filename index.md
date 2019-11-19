@@ -32,5 +32,5 @@ Specifically, we will implement running solutions of the IETF working groups [So
 
 ## Organizers
 
-- [Hannes Tschofenig](https://datatracker.ietf.org/person/Hannes%20Tschofenig) (ARM)
+- [Hannes Tschofenig](https://datatracker.ietf.org/person/Hannes%20Tschofenig) (Arm)
 - [Matthias W&auml;hlisch](http://www.mi.fu-berlin.de/en/inf/groups/ilab/members/waehlisch.html) (Freie Universit&auml;t Berlin)
