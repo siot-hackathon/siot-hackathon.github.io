@@ -17,7 +17,7 @@ Specifically, we will implement running solutions of the IETF working groups [So
 
 ## Supporters
 
-- [Arm] (https://www.arm.com/)
+- [Arm](https://www.arm.com/)
 - [Einstein Center Digital Future (ECDF)](https://www.digital-future.berlin/)
 
 ## IETF Champions
