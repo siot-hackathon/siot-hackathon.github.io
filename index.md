@@ -3,7 +3,7 @@ layout: default
 title: Welcome to the Hackathon on Securing the Internet of Things
 ---
 
-# Securing the IoT Hackathon
+# Securing the IoT (SIoT) Hackathon
 
 The aim of this hackathon is to bring people together who are interested to work on practical solutions to improve security in the Internet of Things (IoT).
 The hackathon will consist of one day tutorial and two days of coding, coding, and coding&mdash;all garnished in a stimulating and fun atmosphere!

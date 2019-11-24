@@ -31,6 +31,12 @@ permalink: /:page.html
 navbar_list:
 - name: Home
   link: /
+- name: Background
+  link: background
+#- name: Agenda
+# link: agenda
+- name: Call for Participation
+  link: call-for-participation
 - name: Venue
   link: venue
 - name: Registration
