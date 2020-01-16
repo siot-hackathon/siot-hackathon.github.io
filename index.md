@@ -19,6 +19,8 @@ Specifically, we will implement running solutions of the IETF working groups [So
 
 - [Arm](https://www.arm.com/)
 - [Einstein Center Digital Future (ECDF)](https://www.digital-future.berlin/)
+- [Nordic Semiconductor](https://www.nordicsemi.com/)
+- [RIOT](https://riot-os.org/)
 
 ## IETF Champions
 
