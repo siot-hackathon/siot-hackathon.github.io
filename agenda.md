@@ -6,6 +6,9 @@ title: Welcome to the Hackathon on Securing the Internet of Things
 # Agenda
 
 ## Sunday, February 16&mdash;Tutorials
+
+{:.table-condensed .table-striped .table-hover .program}
+
 | Hour | Topic |
 |---|---|
 18:00 | Informal Dinner
