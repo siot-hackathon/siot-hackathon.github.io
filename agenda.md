@@ -5,7 +5,7 @@ title: Welcome to the Hackathon on Securing the Internet of Things
 
 # Agenda
 
-## Sunday, February 16&mdash;Tutorials
+## Sunday, February 16&mdash;Arrival
 
 {:.table-condensed .table-striped .table-hover .program}
 
