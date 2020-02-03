@@ -50,8 +50,9 @@ title: Welcome to the Hackathon on Securing the Internet of Things
 |---|---|
 09:00 - 12:00 | Coding
 12:00 - 13:00 | Lunch
-13:00 - 16:00 | Final coding
-16:00 - 17:00 | Presentation of achievements
+13:00 - 15:00 | Final coding
+15:00 - 16:00 | Presentation of achievements
+16:00 - 17:00 | IETF SUIT virtual interim meeting
 17:00 - 17:30 | Wrap-up & farewell
 
 
