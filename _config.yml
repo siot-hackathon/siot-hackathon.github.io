@@ -35,6 +35,8 @@ navbar_list:
   link: background
 - name: Agenda
   link: agenda
+- name: Preparation
+  link: preparation
 - name: Call for Participation
   link: call-for-participation
 - name: Venue
