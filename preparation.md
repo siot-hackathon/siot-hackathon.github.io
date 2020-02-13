@@ -5,7 +5,9 @@ title: Welcome to the Hackathon on Securing the Internet of Things
 
 # Preparatory Steps
 
-## TEEP
+## SUIT
+
+### MCUboot
 
 MCUboot is an open-source secure bootloader project for 32-bit microcontrollers. When
 integrated with the Trusted Firmware-M codebase, it can also be part of an attested
@@ -28,7 +30,7 @@ at the dreadful URL
 [ci.trustedfirmware.org](https://ci.trustedfirmware.org/job/tf-m-build-test-nightly/lastSuccessfulBuild/artifact/build-docs/tf-m_documents/install/doc/user_guide/html/index.html)
 
 
-## SUIT
+### RIOT
 
 For the SUIT tutorial we will use RIOT, which includes experimental [SUIT support](https://github.com/RIOT-OS/RIOT/tree/master/examples/suit_update).
 RIOT is an open source, real-time, multi-threading operating system
