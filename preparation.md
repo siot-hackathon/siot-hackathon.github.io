@@ -68,4 +68,10 @@ For the SUIT tutorial / hackathon, we suggest you use a preconfigured virtual
 machine.
 Please download and test-run the VM before the tutorial by following these [instructions & prerequisites](https://github.com/future-proof-iot/RIOT/wiki/SUIT-Tutorial-and-Hackathon-Berlin-2020).
 
+### Manifest Generator
 
+For the tutorial and hackathon, we will use the SUIT manifest generator. This can be [cloned from github](https://github.com/ARMmbed/suit-manifest-generator) and installed using pip, according to the installation [instructions](https://github.com/ARMmbed/suit-manifest-generator#installing). The SUIT manifest generator uses Python 3.6 or later.
+
+### SUIT Manifest Parser Example
+
+For the hackathon, there is a sample parser constructed in a bootloader. This is included in the SUIT Manifest Generator repository. This also requires srec_cat, arm-none-eabi-gcc, and mbed-cli. More detail and requirements are available in the [parser_examples](https://github.com/ARMmbed/suit-manifest-generator/tree/master/parser_examples) directory.
