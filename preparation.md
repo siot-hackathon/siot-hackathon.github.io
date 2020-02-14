@@ -5,6 +5,33 @@ title: Welcome to the Hackathon on Securing the Internet of Things
 
 # Preparatory Steps
 
+## RATS
+
+### QCBOR
+ *  CBOR encoder / decoder for native C
+ *  Mature, tested, commercial code integrated with TF-M and other
+ *  Near complete implementation of RFC 7049
+ *  Available in [GitHub](https://github.com/laurencelundblade/QCBOR).
+
+### t_cose
+ *  COSE Sign1 implementation
+     *  Primarily ECDSA signing and verification
+     *  Encryption not supported
+ *  Small code size, minimal dependency, just on QCBOR and PSA Crypto and/or OpenSSL
+ *  Mature, tested, commercial code integrated with TF-M
+ *  Available in [GitHub](https://github.com/laurencelundblade/t_cose).
+
+### ctoken
+ *  Implementation of CWT, EAT and PSA Initial Attestation
+     *  Doesn't support all the claims defined by EAT and CWT yet.
+ *  Small code size, minimal dependency, just on QCBOR and t_cose and PSA Crypto or OpenSSL
+ *  This is a rework of attestation code in PSA / TF-M to make it more general, support CWT and
+    such
+ *  Interface may change; documentation is partial.
+ *  Tested as part of PSA / TF-M, but testing of this version is incomplete
+ *  Available in [GitHub](https://github.com/laurencelundblade/ctoken). Be sure to look at the example.
+
+
 ## SUIT
 
 ### MCUboot
@@ -40,3 +67,5 @@ based on various 32-bit, 16-bit or 8-bit microcontrollers.
 For the SUIT tutorial / hackathon, we suggest you use a preconfigured virtual
 machine.
 Please download and test-run the VM before the tutorial by following these [instructions & prerequisites](https://github.com/future-proof-iot/RIOT/wiki/SUIT-Tutorial-and-Hackathon-Berlin-2020).
+
+
