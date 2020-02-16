@@ -75,3 +75,27 @@ For the tutorial and hackathon, we will use the SUIT manifest generator. This ca
 ### SUIT Manifest Parser Example
 
 For the hackathon, there is a sample parser constructed in a bootloader. This is included in the SUIT Manifest Generator repository. This also requires srec_cat, arm-none-eabi-gcc, and mbed-cli. More detail and requirements are available in the [parser_examples](https://github.com/ARMmbed/suit-manifest-generator/tree/master/parser_examples) directory.
+
+## TEEP
+
+You can either use:
+
+a. Visual Studio on an SGX-capable Windows laptop to code for SGX, or
+
+b. Visual Studio Code on a Windows or Linux laptop to code for ARM TrustZone
+
+### SGX
+
+The prerequisites are listed [here](https://github.com/dthaler/openenclave/blob/feature.vsextension/new_platforms/docs/VisualStudioWindows.md).  To get the VS Extension in the fourth bullet, use the [HACKATHON private](https://1drv.ms/u/s!Aqj-Bj9PNivcnu9rlOlmiAVZz-jOtg?e=QlcO7t) link there rather than the main VS marketplace link since v0.7 is not yet published in the marketplace.
+
+#### OTrP prototype with TEEP stubs
+
+* GitHub repo: git clone --recursive https://github.com/dthaler/OTrP.git
+
+### ARM TrustZone
+
+Prerequisites:
+
+* Install [Visual Studio Code](https://code.visualstudio.com/Download) (for Windows or Linux)
+
+* Install the [Open Enclave extension](https://marketplace.visualstudio.com/items?itemName=ms-iot.msiot-vscode-openenclave)
