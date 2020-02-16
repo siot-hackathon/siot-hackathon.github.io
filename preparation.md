@@ -30,8 +30,7 @@ title: Welcome to the Hackathon on Securing the Internet of Things
  *  Tested as part of PSA / TF-M, but testing of this version is incomplete
  *  Available in [GitHub](https://github.com/laurencelundblade/ctoken). Be sure to look at the example.
 
-### Platform Security Architecture (PSA)
-
+### Platform Security Architecture (PSA)
 The Platform Security Architecture (PSA), among other things, defines an attestation API, which uses EAT 
 described above.  We have put together a couple of example projects. Please read through and see which
 works for you:
