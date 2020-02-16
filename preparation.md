@@ -22,18 +22,18 @@ title: Welcome to the Hackathon on Securing the Internet of Things
  *  Available in [GitHub](https://github.com/laurencelundblade/t_cose).
 
 ### ctoken
- *  Implementation of CWT, EAT and PSA Initial Attestation
+ *  Implementation of CWT, EAT and PSA Initial Attestation 
      *  Doesn't support all the claims defined by EAT and CWT yet.
  *  Small code size, minimal dependency, just on QCBOR and t_cose and PSA Crypto or OpenSSL
- *  This is a rework of attestation code in PSA / TF-M to make it more general, support CWT and
-    such
+ *  This is a rework of attestation code in PSA / TF-M to make it more general, support CWT and such
  *  Interface may change; documentation is partial.
  *  Tested as part of PSA / TF-M, but testing of this version is incomplete
  *  Available in [GitHub](https://github.com/laurencelundblade/ctoken). Be sure to look at the example.
 
-### PSA
+### Platform Security Architecture (PSA)
 
-We have put together a couple of projects. Please, read through and see which
+The Platform Security Architecture (PSA), among other things, defines an attestation API, which uses EAT 
+described above.  We have put together a couple of example projects. Please read through and see which
 works for you:
 
  * [Attested sensor readings](https://hackmd.io/7d9Ym-w-ScqC0oQp9ji4lQ?view#Attested-sensor-readings)
@@ -62,7 +62,6 @@ MCUboot simulator requires Linux or MacOS.
 In addition, MCUboot can be included within the trusted firmware TFM image. Docs are
 at the dreadful URL
 [ci.trustedfirmware.org](https://ci.trustedfirmware.org/job/tf-m-build-test-nightly/lastSuccessfulBuild/artifact/build-docs/tf-m_documents/install/doc/user_guide/html/index.html)
-
 
 ### RIOT
 
@@ -99,11 +98,11 @@ Walkthrough (not required before hackathon):
 
 * See the Walkthrough section [here](https://github.com/dthaler/openenclave/blob/feature.vsextension/new_platforms/docs/VisualStudioWindows.)
 
-#### OTrP prototype with TEEP stubs
+A OTrP prototype with TEEP stubs can be found here:
 
 * GitHub repo: git clone --recursive https://github.com/dthaler/OTrP.git
 
-### ARM TrustZone
+### Arm TrustZone (for A class)
 
 Prerequisites:
 
