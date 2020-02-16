@@ -105,6 +105,8 @@ Prerequisites:
 * Install the [Open Enclave extension](https://1drv.ms/u/s!Aqj-Bj9PNivcnu9t-U5vieHQZvzsog?e=3zp70h) private.
   (This update is not yet published in the VS Code marketplace.)
 
+* Followthe other prerequisites listed [here](https://marketplace.visualstudio.com/items?itemName=ms-iot.msiot-vscode-openenclave#requirements)
+
 Walkthrough (not required before hackathon):
 
 * See the Getting Started section [here](https://marketplace.visualstudio.com/items?itemName=ms-iot.msiot-vscode-openenclave).
