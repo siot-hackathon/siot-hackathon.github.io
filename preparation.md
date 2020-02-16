@@ -98,5 +98,5 @@ Prerequisites:
 
 * Install [Visual Studio Code](https://code.visualstudio.com/Download) (for Windows or Linux)
 
-* Install the [Open Enclave extension](https://microsoft-my.sharepoint.com/:u:/p/hegatta/EaO5-ozoGRVBjLHUrlKi6QEBKGgOwvzA4TjFUdBRse3b2w?e=5DmGz6) private.
+* Install the [Open Enclave extension](https://1drv.ms/u/s!Aqj-Bj9PNivcnu9qB7dKWBWvV0P0ng?e=rbyuav) private.
   (This update is not yet published in the VS Code marketplace.)
