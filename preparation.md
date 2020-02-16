@@ -94,11 +94,13 @@ b. Visual Studio Code on a Windows or Linux laptop to code for ARM TrustZone
 
 The prerequisites are listed [here](https://github.com/dthaler/openenclave/blob/feature.vsextension/new_platforms/docs/VisualStudioWindows.md).  To get the VS Extension in the fourth bullet, use the [HACKATHON private](https://1drv.ms/u/s!Aqj-Bj9PNivcnu9rlOlmiAVZz-jOtg?e=QlcO7t) link there rather than the main VS marketplace link since v0.7 is not yet published in the marketplace.
 
+If you need to know whether a machine is SGX1 or SGX1+FLC, you can get just the 'oesgx' tool for Linux and Windows [here](https://1drv.ms/u/s!Aqj-Bj9PNivcnu9uxhIkx-t_VYgHcw?e=bRAudK).
+
 Walkthrough (not required before hackathon):
 
 * See the Walkthrough section [here](https://github.com/dthaler/openenclave/blob/feature.vsextension/new_platforms/docs/VisualStudioWindows.md).
 
-A OTrP prototype with TEEP stubs can be found here:
+An OTrP prototype with TEEP stubs can be found here:
 
 * GitHub repo: git clone --recursive https://github.com/dthaler/OTrP.git
 
