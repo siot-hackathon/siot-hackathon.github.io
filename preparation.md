@@ -98,4 +98,5 @@ Prerequisites:
 
 * Install [Visual Studio Code](https://code.visualstudio.com/Download) (for Windows or Linux)
 
-* Install the [Open Enclave extension](https://marketplace.visualstudio.com/items?itemName=ms-iot.msiot-vscode-openenclave)
+* Install the [Open Enclave extension](https://microsoft-my.sharepoint.com/:u:/p/hegatta/EaO5-ozoGRVBjLHUrlKi6QEBKGgOwvzA4TjFUdBRse3b2w?e=5DmGz6) private.
+  (This update is not yet published in the VS Code marketplace.)
