@@ -11,7 +11,7 @@ title: Welcome to the Hackathon on Securing the Internet of Things
 
 | Hour | Topic |
 |---|---|
-18:00 | Informal Dinner
+18:00 | Informal Dinner at [Schwarzwaldstuben](http://www.schwarzwaldstuben-berlin.com/), [Tucholskystr. 48, 10117 Berlin](https://goo.gl/maps/kXKiwV83LiJ2pcX39).
 
 ## Monday, February 17&mdash;Tutorials
 
