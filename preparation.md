@@ -31,6 +31,13 @@ title: Welcome to the Hackathon on Securing the Internet of Things
  *  Tested as part of PSA / TF-M, but testing of this version is incomplete
  *  Available in [GitHub](https://github.com/laurencelundblade/ctoken). Be sure to look at the example.
 
+### PSA
+
+We have put together a couple of projects. Please, read through and see which
+works for you:
+
+ * [Attested sensor readings](https://hackmd.io/7d9Ym-w-ScqC0oQp9ji4lQ?view#Attested-sensor-readings)
+ * [Journey from IAT to EAT](https://hackmd.io/7d9Ym-w-ScqC0oQp9ji4lQ?view#From-IAT-to-EAT)
 
 ## SUIT
 
