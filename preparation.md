@@ -5,7 +5,12 @@ title: Welcome to the Hackathon on Securing the Internet of Things
 
 # Preparatory Steps
 
-## RATS
+## Attestation / RATS
+
+The Arm Platform Security Architecture (PSA), among other things, defines an attestation API, which uses 
+the Entity Attestation Token (EAT). The implement found in Arm Trusted Firmware M (TF-M) uses a number of 
+building blocks, namely QCBOR (as an implementation of CBOR), t_cose (as a COSE implementation) and 
+ctoken (as an implementation of the EAT token). 
 
 ### QCBOR
  *  CBOR encoder / decoder for native C
@@ -30,11 +35,7 @@ title: Welcome to the Hackathon on Securing the Internet of Things
  *  Tested as part of PSA / TF-M, but testing of this version is incomplete
  *  Available in [GitHub](https://github.com/laurencelundblade/ctoken). Be sure to look at the example.
 
-### Platform Security Architecture (PSA)
-The Platform Security Architecture (PSA), among other things, defines an attestation API, which uses EAT 
-described above.  We have put together a couple of example projects. Please read through and see which
-works for you:
-
+### Example Projects
  * [Attested sensor readings](https://hackmd.io/7d9Ym-w-ScqC0oQp9ji4lQ?view#Attested-sensor-readings)
  * [Journey from IAT to EAT](https://hackmd.io/7d9Ym-w-ScqC0oQp9ji4lQ?view#From-IAT-to-EAT)
 
