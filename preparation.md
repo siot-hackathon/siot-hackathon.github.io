@@ -96,7 +96,7 @@ The prerequisites are listed [here](https://github.com/dthaler/openenclave/blob/
 
 Walkthrough (not required before hackathon):
 
-* See the Walkthrough section [here](https://github.com/dthaler/openenclave/blob/feature.vsextension/new_platforms/docs/VisualStudioWindows.)
+* See the Walkthrough section [here](https://github.com/dthaler/openenclave/blob/feature.vsextension/new_platforms/docs/VisualStudioWindows.md).
 
 A OTrP prototype with TEEP stubs can be found here:
 
