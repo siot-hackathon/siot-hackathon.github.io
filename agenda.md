@@ -27,7 +27,7 @@ title: Welcome to the Hackathon on Securing the Internet of Things
 13:00 - 15:00 | Tutorial: Attestation (RATS)
 15:00 - 15:30 | Break
 15:30 - 17:30 | Tutorial: Trusted Execution Environment Provisioning (TEEP)
-18:30 - ...   | Dinner (food sponsored by Arm)
+18:30 - ...   | Dinner (food sponsored by Arm) <br> [Zur Nolle](https://www.restaurant-nolle.de/), [Georgenstr., S-Bahnbogen 203, 10117 Berlin](https://goo.gl/maps/28Y1ZqwcbAfAkV9n6)
 
 ## Tuesday, February 18&mdash;Core Coding
 
