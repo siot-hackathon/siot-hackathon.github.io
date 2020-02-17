@@ -13,6 +13,7 @@ Specifically, we will implement running solutions of the IETF working groups [So
 ## News
 
 - February 17, 2020: [Slides online](agenda)
+- February 15, 2020: [Wiki to assign topics online](https://github.com/siot-hackathon/siot-hackathon.github.io/wiki/Topic-assignments)
 - February 14, 2020: [Preparatory steps online](preparation)
 - November 19, 2019: [Registration open](https://siot-hackathon-2020.eventbrite.com)
 - October 29, 2019: Website setup
