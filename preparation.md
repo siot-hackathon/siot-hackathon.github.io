@@ -96,7 +96,8 @@ The prerequisites are listed [here](https://github.com/dthaler/openenclave/blob/
 
 #### SGX on Windows
 
-To get the VS Extension in the fourth bullet, use the [HACKATHON private](https://1drv.ms/u/s!Aqj-Bj9PNivcnu9rlOlmiAVZz-jOtg?e=QlcO7t) link there rather than the main VS marketplace link since v0.7 is not yet published in the marketplace.
+To get the VS Extension in the fourth bullet, use the [HACKATHON private](
+https://1drv.ms/u/s!Aqj-Bj9PNivcnu9xD1eiz0BAGLYlGw?e=kRKwDd) link there rather than the main VS marketplace link since v0.7 is not yet published in the marketplace.
 
 If you need to know whether a machine is SGX1 or SGX1+FLC, you can get just the 'oesgx' tool for Linux and Windows [here](https://1drv.ms/u/s!Aqj-Bj9PNivcnu9uxhIkx-t_VYgHcw?e=bRAudK).
 
