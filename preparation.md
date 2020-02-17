@@ -88,11 +88,16 @@ You can either use:
 
 a. Visual Studio on an SGX-capable Windows laptop to code for SGX, or
 
-b. Visual Studio Code on a Windows or Linux laptop to code for ARM TrustZone
+b. Visual Studio Code on a Windows or Linux laptop to code for ARM TrustZone (for A class) or SGX.
 
-### SGX
+### Visual Studio
 
-The prerequisites are listed [here](https://github.com/dthaler/openenclave/blob/feature.vsextension/new_platforms/docs/VisualStudioWindows.md).  To get the VS Extension in the fourth bullet, use the [HACKATHON private](https://1drv.ms/u/s!Aqj-Bj9PNivcnu9rlOlmiAVZz-jOtg?e=QlcO7t) link there rather than the main VS marketplace link since v0.7 is not yet published in the marketplace.
+The prerequisites are listed [here](https://github.com/dthaler/openenclave/blob/feature.vsextension/new_platforms/docs/VisualStudioWindows.md).  
+
+#### SGX on Windows
+
+To get the VS Extension in the fourth bullet, use the [HACKATHON private](
+https://1drv.ms/u/s!Aqj-Bj9PNivcnu9xD1eiz0BAGLYlGw?e=kRKwDd) link there rather than the main VS marketplace link since v0.7 is not yet published in the marketplace.
 
 If you need to know whether a machine is SGX1 or SGX1+FLC, you can get just the 'oesgx' tool for Linux and Windows [here](https://1drv.ms/u/s!Aqj-Bj9PNivcnu9uxhIkx-t_VYgHcw?e=bRAudK).
 
@@ -104,7 +109,11 @@ An OTrP prototype with TEEP stubs can be found here:
 
 * GitHub repo: git clone --recursive https://github.com/dthaler/OTrP.git
 
-### Arm TrustZone (for A class)
+#### SGX on Linux, using a Windows dev machine
+
+The prerequisites are listed [here](https://github.com/dthaler/openenclave/blob/feature.vsextension/docs/GettingStartedDocs/VisualStudioLinux.md).  
+
+### Visual Studio Code
 
 Prerequisites:
 
@@ -113,7 +122,7 @@ Prerequisites:
 * Install the [Open Enclave extension](https://1drv.ms/u/s!Aqj-Bj9PNivcnu9t-U5vieHQZvzsog?e=3zp70h) private.
   (This update is not yet published in the VS Code marketplace.)
 
-* Followthe other prerequisites listed [here](https://marketplace.visualstudio.com/items?itemName=ms-iot.msiot-vscode-openenclave#requirements)
+* Follow the other prerequisites listed [here](https://marketplace.visualstudio.com/items?itemName=ms-iot.msiot-vscode-openenclave#requirements)
 
 Walkthrough (not required before hackathon):
 
