@@ -22,7 +22,7 @@ title: Welcome to the Hackathon on Securing the Internet of Things
 09:00 - 09:15 | Registration & coffee
 09:15 - 09:30 | Welcome
 09:30 - 10:00 | 30 seconds madness introduction
-13:00 - 15:00 | **Tutorial: Attestation (RATS)** <br> (1) [Attestation (RATS/EAT) Overview](slides/rats01.pdf) <br> (2) [PSA and Attestation](slides/rats03.pdf) <br> (3) [MCUBoot Attestation](slides/rats02.pdf)
+13:00 - 15:00 | **Tutorial: Attestation (RATS)** <br> (1) [Attestation (RATS/EAT) Overview](slides/rats01.pdf) <br> (2) [PSA APIs. An Overview](slides/rats04.pdf) <br> (2) [PSA and Attestation](slides/rats03.pdf) <br> (3) [MCUBoot Attestation](slides/rats02.pdf)
 12:00 - 13:00 | Lunch
 13:00 - 14:30 | **Tutorial: Firmware Updates (SUIT)** <br> (1) [SUIT Manifest Tutorial](slides/suit01.pdf) <br> (2) [SUIT-based firmware update architecture](slides/suit02.pdf)
 14:30 - 15:00 | Break
