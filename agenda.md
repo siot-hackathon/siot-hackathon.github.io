@@ -41,7 +41,7 @@ title: Welcome to the Hackathon on Securing the Internet of Things
 12:00 - 13:00 | Lunch
 13:00 - 17:30 | Coding
 17:30 - 18:00 | Status reports
-18:30 - ...   | Informal dinner
+18:30 - ...   | Informal dinner <br> [Deponie Nr. 3](http://www.deponie3.de/), [Georgenstraﬂe 5, 10117 Berlin](https://goo.gl/maps/U5wjd283Lsf3poD56)
 
 ## Wednesday, February 19&mdash;Code Sprint
 
@@ -51,9 +51,8 @@ title: Welcome to the Hackathon on Securing the Internet of Things
 |---|---|
 09:00 - 12:00 | Coding
 12:00 - 13:00 | Lunch
-13:00 - 15:00 | Final coding
-15:00 - 16:00 | Presentation of achievements
-16:00 - 17:00 | IETF SUIT virtual interim meeting
+13:00 - 16:00 | Final coding
+16:00 - 17:00 | IETF SUIT virtual interim meeting <br> Presentation of achievements
 17:00 - 17:30 | Wrap-up & farewell
 
 
