@@ -47,7 +47,7 @@ navbar_list:
 # Configuration for asides.html
 asides:
   github: false
-  ietf: true
+  links: true
   # tweets: false
 
 # google_analytics:
