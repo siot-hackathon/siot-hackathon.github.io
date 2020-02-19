@@ -41,7 +41,7 @@ title: Welcome to the Hackathon on Securing the Internet of Things
 12:00 - 13:00 | Lunch
 13:00 - 17:30 | Coding
 17:30 - 18:00 | Status reports
-18:30 - ...   | Informal dinner <br> [Deponie Nr. 3](http://www.deponie3.de/), [Georgenstraﬂe 5, 10117 Berlin](https://goo.gl/maps/U5wjd283Lsf3poD56)
+18:30 - ...   | Informal dinner <br> [Deponie Nr. 3](http://www.deponie3.de/), [Georgenstr. 5, 10117 Berlin](https://goo.gl/maps/U5wjd283Lsf3poD56)
 
 ## Wednesday, February 19&mdash;Code Sprint
 
